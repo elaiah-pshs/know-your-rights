@@ -1,4 +1,5 @@
 # Know Your Rights
+(yes I copy-pasted this readme from [AI: The Inner Workings](https://github.com/elaiah-pshs/AI-The-Inner-Workings)
 
 <h2 id="description"> Description </h2>
 
