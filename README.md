@@ -15,7 +15,6 @@ Due to the sheer coverage of Article III of the 1987 constitution, the very firs
 Check out the explainations to all the code used in this website that you might not be familiar with in the `wiki` section. Also, feel free to point out any issues with the website in the `issues` section! I'm not so strict on Github conventions (because for the most part I don't even follow them HAHAHAHA), so don't be shy.
 
 <br>
-<br>
 
 <h2 id="code-credits">Code Accreditation</h2>
 
