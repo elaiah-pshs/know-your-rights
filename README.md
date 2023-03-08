@@ -1,31 +1,38 @@
-# Know Your Rights
-(yes I copy-pasted this readme from [AI: The Inner Workings](https://github.com/elaiah-pshs/AI-The-Inner-Workings))
+# create-svelte
 
-<h2 id="description"> Description </h2>
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-**Know Your Rights** is a website dedicated to explaining section III of the 1987 Philippine constitution, also known as the bill of rights. This website also aims to explain the implications and limitations of this part of the constitution.
+## Creating a project
 
-Due to the sheer coverage of Article III of the 1987 constitution, the very first version of this website will only cover section XIV of the bill of rights. That is, we shall only cover the following:
+If you're seeing this, you've probably already done this step. Congrats!
 
-1. A comprehensive introduction to section XIV of the bill of rights
-2. The 10 primary implications of section XIV
-3. Landmark cases involving section XIV
-4. A mythbusters-type minigame on the applications of section XIV
+```bash
+# create a new project in the current directory
+npm create svelte@latest
 
-Check out the explainations to all the code used in this website that you might not be familiar with in the `wiki` section. Also, feel free to point out any issues with the website in the `issues` section! I'm not so strict on Github conventions (because for the most part I don't even follow them HAHAHAHA), so don't be shy.
+# create a new project in my-app
+npm create svelte@latest my-app
+```
 
-<br>
+## Developing
 
-<h2 id="code-credits">Code Accreditation</h2>
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
-* The navigation bar used in this website was heavily inspired by the work of Jeff Delaney on this Github repository:
-    * [A Responsive Animated CSS Icon Navbar](https://github.com/fireship-io/222-responsive-icon-nav-css)
+```bash
+npm run dev
 
-* The code for hiding scrollbars while still maintaining the website's ability to scroll was taken from this Stackoverflow question posted Oussama el Bachiri
-    * [Hide scroll bar, but while still being able to scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll?page=1&tab=votes#answer-38994837)
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
 
-* The code for the card system right after each title is also inspired by the work of Jeff Dalaney on this Github repository:
-    * [Stacked Card List](https://github.com/fireship-io/stacked-card-list)
+## Building
 
-* The flipping cards found in the myths page contains code from Jacob Oakley on this Codepen:
-    * [Card Flip](https://codepen.io/jacoboakley/pen/ZpRbqB?editors=0010)
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
