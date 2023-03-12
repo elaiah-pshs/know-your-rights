@@ -40,6 +40,7 @@ You can preview the production build with `npm run preview`.
 ## Dev Notes
 fonts used:
 * https://www.dafont.com/inlanders.font?text=Know+Your+Rights&back=theme
+* https://www.dafont.com/jmh-typewriter.font
 
 images used:
 * https://www.bworldonline.com/opinion/2022/07/14/461403/unity-in-conformity/
