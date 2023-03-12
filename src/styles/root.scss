@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+@font-face {
+    font-family: "Inlanders";
+    font-style: "normal";
+    src: url("../../fonts/Inlanders Demo.otf");
+}
+
+$bg-primary: #18100C;
+$bg-secondary: #73411E;
+
+:root {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    color: white;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: $bg-primary;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+::-webkit-scrollbar-track {
+    /* To make the track invisible */
+    background-color: rgba(0, 0, 0, 0);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: $bg-secondary;
+    border-radius: 0.25rem;
+}

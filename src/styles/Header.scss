@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 1rem;
+    border-radius: 0 0 3rem 3rem;
+
+    background: {
+        image: url(https://www.bworldonline.com/wp-content/uploads/2022/07/Ninoy.jpg);
+        size: cover;
+        color: grey;
+        blend-mode: multiply;
+    };
+}
