@@ -3,7 +3,35 @@
 @font-face {
     font-family: "Inlanders";
     font-style: "normal";
-    src: url("../../fonts/Inlanders Demo.otf");
+    src: url("fonts/Inlanders/Inlanders Demo.otf");
+}
+
+@font-face {
+    font-family: "Typewriter";
+    font-style: "normal";
+    font-weight: 100;
+    src: url("fonts/Typewriter/JMH Typewriter-Thin.ttf");
+}
+
+@font-face {
+    font-family: "Typewriter";
+    font-style: "normal";
+    font-weight: 400;
+    src: url("fonts/Typewriter/JMH Typewriter.ttf");
+}
+
+@font-face {
+    font-family: "Typewriter";
+    font-style: "normal";
+    font-weight: 700;
+    src: url("fonts/Typewriter/JMH Typewriter-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Typewriter";
+    font-style: "normal";
+    font-weight: 900;
+    src: url("fonts/Typewriter/JMH Typewriter-Black.ttf");
 }
 
 $bg-primary: #18100C;

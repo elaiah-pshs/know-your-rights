@@ -13,4 +13,11 @@ header {
         color: grey;
         blend-mode: multiply;
     };
+
+    .title {
+        font: {
+            family: Typewriter;
+            size: 5rem;
+        };
+    }
 }

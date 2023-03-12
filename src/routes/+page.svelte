@@ -27,7 +27,7 @@
             
                     </p>
                 </article>
-                <figure><img src="../images/home/image1.jpg"></figure>
+                
             </section>
             
             
@@ -37,7 +37,7 @@
             
             
             <section class="content" id="section-2">
-                <figure><img src="../images/home/image2.jpg"></figure>
+                
                 <article>
                     <h2>The Goal</h2>
                     <p>
@@ -112,7 +112,7 @@
                     </i>
                 </article>
             
-                <figure><img src="../images/home/image3.jpg"></figure>
+                
             </section>
             
             
@@ -134,7 +134,7 @@
             
                     </p>
                 </article>
-                <figure><img src="../images/home/image1.jpg"></figure>
+                
             </section>
             
             
@@ -144,7 +144,7 @@
             
             
             <section class="content" id="section-2">
-                <figure><img src="../images/home/image2.jpg"></figure>
+                
                 <article>
                     <h2>The Goal</h2>
                     <p>
@@ -219,7 +219,7 @@
                     </i>
                 </article>
             
-                <figure><img src="../images/home/image3.jpg"></figure>
+                
             </section>
             
             
@@ -241,7 +241,7 @@
             
                     </p>
                 </article>
-                <figure><img src="../images/home/image1.jpg"></figure>
+                
             </section>
             
             
@@ -251,7 +251,7 @@
             
             
             <section class="content" id="section-2">
-                <figure><img src="../images/home/image2.jpg"></figure>
+                
                 <article>
                     <h2>The Goal</h2>
                     <p>
@@ -326,7 +326,7 @@
                     </i>
                 </article>
             
-                <figure><img src="../images/home/image3.jpg"></figure>
+                
             </section>
             
 </main>
