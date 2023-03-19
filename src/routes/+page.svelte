@@ -11,6 +11,10 @@
 <div class="nav-background"></div>
 
 <main>
+    <Deck />
+</main>
+
+<main>
         <section class="content" id="section-1">
                 <article>
                     <h2>The Purpose</h2>

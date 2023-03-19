@@ -1,0 +1,28 @@
+{
+    "cards": [
+        {
+            "icon": "../images/home/icon1.svg",
+            "number": 1,
+            "title": "The Purpose",
+            "figure": "../images/12.png"
+        },
+        {
+            "icon": "../images/home/icon2.svg",
+            "number": 2,
+            "title": "The Goal",
+            "figure": "../images/home/image2.jpg"
+        },
+        {
+            "icon": "../images/home/icon3.svg",
+            "number": 3,
+            "title": "The Strategy",
+            "figure": "../images/home/image3.jpg"
+        },
+        {
+            "icon": "../images/home/icon4.svg",
+            "number": 4,
+            "title": "The Test",
+            "figure": "../images/home/image34.jpg"
+        }
+    ]
+}

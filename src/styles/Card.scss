@@ -1,0 +1,108 @@
+/* ========================================================================= */
+
+
+/* Header Card Styles */
+
+.deck > header {
+    flex-direction: row;
+    align-items: center;
+
+    margin-right: 2rem;
+}
+
+.deck > header svg {
+    left: 1.5rem;
+}
+
+.deck > header img {
+    position: relative;
+    left: -1.25rem;
+}
+
+.deck > header div {
+    margin-left: 1.5rem;
+}
+
+
+/* ========================================================================= */
+
+
+/* Link Cards Styles */
+
+.card {
+    display: flex;
+    flex-direction: column;
+
+    background: #071e3d;
+    box-shadow: -1rem 0 3rem #000;
+    border-radius: 1rem;
+
+    height: 350px;
+    width: 400px;
+    min-width: 250px;
+
+    padding: 1.5rem;
+
+    position: relative;
+
+    transition: all 200ms;
+}
+
+.card:not(header) ~ .card {
+    margin-left: -130px;
+}
+
+.card:hover {
+    transform: translateY(-1rem);
+}
+
+.card:hover div {
+    text-shadow: none;
+
+    background: linear-gradient(red, blue);
+    background-clip: text;
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.card:not(header):hover ~ .card {
+    transform: translateX(130px);
+}
+
+.card header {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 75px 1fr;
+
+    height: 5.25rem;
+
+    position: relative;
+
+    background: none;;
+}
+
+.card div * {
+    margin: 0px;
+}
+
+.card:not(header) figure {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: calc(100% - 84px);
+
+    margin: 0px;
+}
+
+.card:not(header) figure > img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    
+    border-radius: 1rem;
+    margin: auto 0;
+}

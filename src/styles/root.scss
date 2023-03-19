@@ -58,8 +58,16 @@ h1, h2, h3, h4, h5, h6, p {
     margin: 0;
 }
 
+main {
+    padding: 0rem 1rem;
+}
+
 ::-webkit-scrollbar {
     width: 0.5rem;
+}
+
+.deck::-webkit-scrollbar {
+    height: 0.5rem;
 }
 
 ::-webkit-scrollbar-track {
