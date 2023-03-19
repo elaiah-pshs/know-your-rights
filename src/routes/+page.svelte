@@ -6,7 +6,9 @@
     import Footer from  '$lib/Footer.svelte';
 </script>
 
-<Header title="Know Your Rights" start />
+<Header title="Section 14" subtitle="Rights of the Acused" />
+
+<div class="nav-background"></div>
 
 <main>
         <section class="content" id="section-1">
