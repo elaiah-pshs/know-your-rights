@@ -5,8 +5,7 @@
 </script>
 
 <section class="deck">
-    <Card slot={true} icon="../images/12.png" />
     {#each card_data.cards as card}
-        <Card slot={false} icon={card.icon} number={card.number} title={card.title} figure={card.figure} />
+        <Card index={card_data.cards.indexOf(card)} />
     {/each}
 </section>

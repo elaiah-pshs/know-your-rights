@@ -1,7 +1,14 @@
 {
-    "cards": [
+    "articles": [
         {
-            "icon": "../images/12.png"
+            "title": "../images/12.png",
+            "text": "<i>test</i>",
+            "infographic": "../images/12.png"
+        },
+        {
+            "title": "../images/12.png",
+            "text": "test1",
+            "infographic": "../images/12.png"
         },
         {
             "icon": "../images/home/icon1.svg",
