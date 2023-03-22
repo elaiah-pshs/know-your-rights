@@ -5,8 +5,8 @@
 </script>
 
 <section class="deck">
-    <Card header={true} icon="../images/12.png" />
+    <Card slot={true} icon="../images/12.png" />
     {#each card_data.cards as card}
-        <Card header={false} icon={card.icon} number={card.number} title={card.title} figure={card.figure} />
+        <Card slot={false} icon={card.icon} number={card.number} title={card.title} figure={card.figure} />
     {/each}
 </section>

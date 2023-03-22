@@ -1,34 +1,36 @@
 <script>
     import '../styles/Card.scss';
-    export let header, icon, number, title, figure;
+    export let slot, icon, number, title, figure;
 </script>
 
-{#if header}
-    <header class="card">
-        <img src={icon}>
-        <svg viewBox="0 0 106 57">
-            <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
-        </svg>
-
-        <div>
-            <p>KNOW YOUR RIGHTS</p>
-            <h2>Section 14</h2>
-        </div>
-    </header>
-{:else}
-    <a class="card" href="#section-1">
-        <header class="card-header">
+{#if slot}
+    <div class="card slot">
+        <div class="card-header">
             <img src={icon}>
             <svg viewBox="0 0 106 57">
                 <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
             </svg>
 
-            <div>
+            <div class="card-header-text">
+                <p>KNOW YOUR RIGHTS</p>
+                <h2>Section 14</h2>
+            </div>
+        </div>
+    </div>
+{:else}
+    <div class="card normal">
+        <div class="card-header">
+            <img src={icon}>
+            <svg viewBox="0 0 106 57">
+                <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
+            </svg>
+
+            <div class="card-header-text">
                 <p>Section {number}:</p>
                 <h2>{title}</h2>
             </div>
-        </header>
+        </div>
 
         <figure><img src={figure}></figure>
-    </a>
+    </div>
 {/if}

@@ -23,6 +23,24 @@
             "number": 4,
             "title": "The Test",
             "figure": "../images/home/image34.jpg"
+        },
+        {
+            "icon": "../images/home/icon4.svg",
+            "number": 4,
+            "title": "The Test",
+            "figure": "../images/home/image34.jpg"
+        },
+        {
+            "icon": "../images/home/icon4.svg",
+            "number": 4,
+            "title": "The Test",
+            "figure": "../images/home/image34.jpg"
+        },
+        {
+            "icon": "../images/home/icon4.svg",
+            "number": 4,
+            "title": "The Test",
+            "figure": "../images/home/image34.jpg"
         }
     ]
 }
