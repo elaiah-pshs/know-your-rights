@@ -1,0 +1,73 @@
+@use "vars";
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: vars.$bg-tertiary;
+
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+
+    padding: 1rem 2rem;
+
+    .title{
+        display: flex;
+        align-items: center;
+        transition: 500ms;
+
+        .icon {
+            width: 2rem;
+            height: 2rem;
+
+            margin-right: 1rem;
+            border-radius: 50%;
+        }
+    }
+
+    .links {
+        display: flex;
+
+        a {
+            background: url("https://raw.githubusercontent.com/elaiah-pshs/AI-The-Inner-Workings/2ed35160cf3ef01b53d0aa2740a8c1e4dd6921b6/images/sprite.svg") no-repeat;
+            background-size: 12.5rem 2.5rem;
+        
+            width: 2.5rem;
+            height: 2.5rem;
+        
+            transition: 500ms;
+        }
+
+        a:hover {
+            transform: translateY(-0.25rem);
+        }
+
+        a:nth-child(2) {
+            background-position: -2.5rem 0px;
+        }
+        
+        a:nth-child(3) {
+            background-position: -5rem 0px;
+        }
+        
+        a:nth-child(4) {
+            background-position: -7.5rem 0px;
+        }
+        
+        a:nth-child(5) {
+            background-position: -10rem 0px;
+        }
+    }
+
+    .copyright {
+        font-size: 0.75rem;
+    }
+}
+
+footer > a {
+    display: flex;
+    align-items: center;
+    transition: 500ms;
+}

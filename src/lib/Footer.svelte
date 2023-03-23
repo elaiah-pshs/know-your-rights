@@ -1,23 +1,22 @@
-<!--
-Page Footer
-- Small to large screens: Displays normally
-- Extremely small screens: Logo is removed
--->
-<footer id="page-footer">
-    <a href="#top">
-        <img src="../images/navbar/2-home.svg">
-        <h3>AI: THE INNER WORKINGS</h3>
+<script>
+    import '../styles/Footer.scss';
+</script>
+
+<footer>
+    <a href="#top" class="title">
+        <img src="../icons/favicon.png" class="icon">
+        <h3>KNOW YOUR RIGHTS</h3>
     </a>
 
-    <section>
+    <div class="links">
         <a href="mailto:esasperin@gmail.com"></a>
-        <a href="https://www.facebook.com/MedsPogi/"></a>
-        <a href="https://twitter.com/MedsPogi"></a>
+        <a href="https://www.facebook.com/medtalks.2/"></a>
+        <a href="https://twitter.com/medtalks__"></a>
         <a href="https://discordapp.com/users/758129651481706498"></a>
-        <a href="https://github.com/MedsPogi"></a>
-    </section>
+        <a href="https://github.com/medzz-sa"></a>
+    </div>
 
-    <p>
-        &copy; 2022 Elaiah S. Asperin
+    <p class="copyright">
+        &copy; 2023 Elijah Sy Foundation. All rights reserved.
     </p>
 </footer>

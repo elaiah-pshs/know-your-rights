@@ -12,4 +12,5 @@
 <main>
     <Deck />
     <Article />
+    <Footer />
 </main>

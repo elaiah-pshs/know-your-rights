@@ -1,39 +1,5 @@
 @use "vars";
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
-
-@font-face {
-    font-family: "Inlanders";
-    font-style: "normal";
-    src: url("fonts/Inlanders/Inlanders Demo.otf");
-}
-
-@font-face {
-    font-family: "JMH Typewriter";
-    font-style: "normal";
-    font-weight: 100;
-    src: url("fonts/Typewriter/JMH Typewriter-Thin.ttf");
-}
-
-@font-face {
-    font-family: "JMH Typewriter";
-    font-style: "normal";
-    font-weight: 400;
-    src: url("fonts/Typewriter/JMH Typewriter.ttf");
-}
-
-@font-face {
-    font-family: "JMH Typewriter";
-    font-style: "normal";
-    font-weight: 700;
-    src: url("fonts/Typewriter/JMH Typewriter-Bold.ttf");
-}
-
-@font-face {
-    font-family: "JMH Typewriter";
-    font-style: "normal";
-    font-weight: 900;
-    src: url("fonts/Typewriter/JMH Typewriter-Black.ttf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Oswald:wght@700&display=swap');
 
 :root {
     margin: 0;
@@ -63,17 +29,27 @@ body {
     background-color: vars.$bg-primary;
 }
 
+main {
+    padding: 0rem 2rem 1rem 2rem;
+}
+
+h1, h2, h3 {
+    font-family: "Montserrat", "Cascadia Code ExtraLight", monospace;
+}
+
+* {
+    font-family: "Lato", "Century Gothic", sans-serif;
+}
+
 a {
     color: white;
     text-decoration: none;
+    transition: 500ms;
 }
 
-h1, h2, h3, h4, h5, h6, p {
-    margin: 0;
-}
-
-main {
-    padding: 0rem 2rem;
+a:hover, main a:active {
+    color: vars.$bg-secondary;
+    text-decoration: none;
 }
 
 .transition {
