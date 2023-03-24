@@ -1,11 +1,11 @@
 <script>
     import '../styles/Deck.scss';
     import Card from '$lib/Card.svelte';
-    import * as card_data from '../data/card_data.json';
+    import * as article_data from '../data/article_data.json';
 </script>
 
 <section class="deck">
-    {#each card_data.cards as card}
-        <Card index={card_data.cards.indexOf(card)} />
+    {#each article_data.articles as card}
+        <Card index={article_data.articles.indexOf(card)} />
     {/each}
 </section>

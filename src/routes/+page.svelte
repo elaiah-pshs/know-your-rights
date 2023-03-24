@@ -11,6 +11,7 @@
 
 <main>
     <Deck />
+    <p>Tip: try clicking the cards above!</p>
     <Article />
     <Footer />
 </main>

@@ -2,48 +2,63 @@
     "articles": [
         {
             "title": "Overview",
-            "text": "Article III, Section 14 of the 1987 Constitution embodies the rights of the accused. It is divided into two statements, both of which imply rights given to people accused of committing a crime. It states: “(1) No person shall be held to answer for a criminal offense without due process of law. (2) In all criminal prosecutions, the accused shall be presumed innocent until the contrary is proved, and shall enjoy the right to be heard by himself and counsel, to be informed of the nature and cause of the accusation against him, to have a speedy, impartial, and public trial, to meet the witnesses face to face, and to have compulsory process to secure the attendance of witnesses and the production of evidence in his behalf. However, after arraignment, trial may proceed notwithstanding the absence of the accused provided that he has been duly notified and his failure to appear is unjustifiable.”",
+            "text": "Article III, Section 14 of the 1987 Constitution embodies the rights of the accused. It is divided into two statements, both of which imply rights given to people accused of committing a crime. It states: <br> <ol> <li>No person shall be held to answer for a criminal offense without due process of law.</li> <li>In all criminal prosecutions, the accused shall be presumed innocent until the contrary is proved, and shall enjoy the right to be heard by himself and counsel, to be informed of the nature and cause of the accusation against him, to have a speedy, impartial, and public trial, to meet the witnesses face to face, and to have compulsory process to secure the attendance of witnesses and the production of evidence in his behalf. However, after arraignment, trial may proceed notwithstanding the absence of the accused provided that he has been duly notified and his failure to appear is unjustifiable.</li> </ol>",
             "infographic": "../images/12.png"
         },
         {
-            "title": "../images/12.png",
-            "text": "test1",
-            "infographic": "../images/13.png"
+            "title": "Historical Basis",
+            "text": "The original template of the Philippines’ Bill of Rights can be seen in the Malolos Constitution, with Title IV, “On the Filipinos and their National and Individual Rights.” This first Bill of Rights was mostly focused on civil and political rights including the rights to freedom of expression and association. <br><br> The 1935 Constitution then came under the Philippine Independence Act or the Tydings–McDuffie Act. This constitution included a Bill of Rights heavily based on the US Bill of Rights. This included the right to due process of law which is still present in the current constitution in Article III, Section 14. <br><br> In 1973, a new Constitution was passed after President Ferdinand Marcos’ declaration of martial law, which allegedly was an improvement on the previous Bill of Rights. However, the transitory provisions from martial law that suspended the legislature and enabled President Marcos to rule by decree severely restricted those rights and resulted in a dictatorship. <br><br> On February 25, 1986, President Corazon “Cory” Aquino assumed office after the EDSA People’s Power Revolution forced the Marcos family into exile, marking the end of the Marcos dictatorship and the beginning of a new era on the grounds of freedom and democracy. Under her term, the 1987 Philippine Constitution was drafted by an appointed Constitutional Commission of 48 members and ratified by the people in a plebiscite held on February 2, 1987. This constitution highly emphasizes social, economic, and cultural rights as well as the protection of human rights in contrast with the usual emphasis on political and civil rights in a typical bill of rights. It was largely modeled after the American Constitution but also incorporated Roman, Spanish, and Anglo law. <br><br> Integrated into the 1987 Constitution was a full Bill of Rights in Article III, which guaranteed fundamental civil and political rights—a drastic change from the weak 1973 Constitution that had given Marcos a legal ambiguity from which to hide. In particular, Article III, Section 14 protected the rights of the accused to a fair trial which prevented further unjust abuses of power by law enforcers that had been prevalent during the Marcos era, especially during the implementation of Martial Law.",
+            "infographic": "../images/History.png"
         },
         {
-            "icon": "../images/home/icon1.svg",
-            "title": "The Purpose",
-            "figure": "../images/12.png"
+            "title": "Right to due process",
+            "text": "This means that anyone accused of a crime has a right to criminal due process. This requires all of the following to be satisfied: <ol type='a'> <li>The accused must be tried by an impartial court.</li> <li>The accused must be tried by a court which has jurisdiction over the crime.</li> <li>The hearing of the case must be conducted in accordance with the procedure prescribed by the law (e.g., the accused must be allowed to examine evidence against him, etc.)</li> <li>All rights of the accused must be afforded to the accused.</li> </ol> In the case of item b, a crime that happened in Zamboanga City cannot be tried before courts in Quezon City since it is too far from the scene of the crime and evidence may be tampered while in transit. However, if one of the parties is very influential in the court that has jurisdiction (i.e., courts in Zamboanga City), then the case may be tried in another court. For example, if a mayor accused someone of committing a crime, the accused can ask the Supreme Court to allow his case to be tried in another province. This is because the mayor may influence the judge hearing his case since they give allowances and bonuses to judges. <br> <h3>Landmark Case 1: Galman vs. Sandiganbayan (G.R. Nos. 71208-09 August 30, 1985)</h3> This case is regarding the murder of the late Senator Benigno Aquino. The court acquitted the accused after finding that the trial was rigged. This was labeled by the Supreme Court as the “mistrial of the century.”",
+            "infographic": "../images/Right to due process.png"
         },
         {
-            "icon": "../images/home/icon2.svg",
-            "title": "The Goal",
-            "figure": "../images/home/image2.jpg"
+            "title": "Right to be presumed innocent",
+            "text": "The second part states that anyone accused of a crime also has the right to be presumed innocent until proven guilty. <br> <h3>Landmark Case 2: People of the Philippines vs. Sunga (G.R. No. L-57875 July 5, 1983)</h3> In a prosecution for rape, the Supreme Court held that although the defense of the appellant was weak, the accused could not be convicted as the evidence of the prosecution is weaker. The presumption of the innocence of the accused must stand.<br><br>",
+            "infographic": "../images/Right to be presumed innocent.png"
         },
         {
-            "icon": "../images/home/icon3.svg",
-            "title": "The Strategy",
-            "figure": "../images/home/image3.jpg"
+            "title": "Right to be heard",
+            "text": "The third part refers to the right of the accused to be heard. This means the accused should be given the opportunity to present evidence. <br> <h3>Landmark Case 3: People of the Philippines vs. Lumague (G.R. No. L-53586 January 30, 1982)</h3> The Supreme Court set aside the conviction of three co-accused after finding that they were denied due process as they had not been given the chance to testify and present additional evidence on their behalf.<br><br>",
+            "infographic": "../images/Right to be heard.png"
         },
         {
-            "icon": "../images/home/icon4.svg",
-            "title": "The Test",
-            "figure": "../images/home/image34.jpg"
+            "title": "Right to counsel",
+            "text": "The fourth part pertains to the right of the accused to hire a competent lawyer. That is, the accused is entitled to a lawyer who is diligent and knowledgeable of the law. For example, some lawyers do not study after passing the bar exams. However, because new laws are constantly being passed, this is a cause for incompetency. Thus, anyone accused of a crime cannot be given a lawyer with this habit. <br> <h3>Landmark Case 4: People of the Philippines vs. Hondolero (G.R. No. L-40633 August 25, 1976)</h3> The Supreme Court has reversed convictions based on pleas of guilty upon the advice of counsel de oficio or free lawyers. The Court held in this case that the counsel de oficio is not zealous in defending the accused as he is not being paid.",
+            "infographic": "../images/Right to counsel.png"
         },
         {
-            "icon": "../images/home/icon4.svg",
-            "title": "The Test",
-            "figure": "../images/home/image34.jpg"
+            "title": "Right to be informed",
+            "text": "The fifth part is the right of the accused to be informed of the nature and cause of accusation. <br> <h3>Landmark Case 5: People of the Philippines vs. Meneses (G.R. No. 111742 March 26, 1998)</h3> The Supreme Court held that the defendant is entitled to know the nature and cause of the accusation against him so he can adequately prepare for his defense. He cannot do this if he has to guess the charge that has been leveled against him because of the ambiguous language of the complaint.",
+            "infographic": "../images/Right to be informed.png"
         },
         {
-            "icon": "../images/home/icon4.svg",
-            "title": "The Test",
-            "figure": "../images/home/image34.jpg"
+            "title": "Right to a speedy trial",
+            "text": "The sixth part states that the accused has a right to a speedy trial. This statement is premised on the dictum, “Justice delayed is justice denied.” <br> <h3>Landmark Case 6: Flores vs. People of the Philippines (G.R. No. L-25769 December 10, 1974)</h3> The accused were charged of robbery in 1951. They then appealed their conviction to the Court of Appeals in 1955 which did not act until 1958. In 1959, the Court of Appeals returned the case to the Regional Trial Court for additional evidence. Nothing happened for the next six years as the complainant was absent during hearings. The accused moved to dismiss the case in 1966 and the case went all the way up to the Supreme Court until they were finally acquitted in 1974—more than two decades from the start of the case—on the grounds that their constitutional right to speedy trial was violated.",
+            "infographic": "../images/Right to speedy trial.png"
         },
         {
-            "icon": "../images/home/icon4.svg",
-            "title": "The Test",
-            "figure": "../images/home/image34.jpg"
+            "title": "Right to an impartial and public trial",
+            "text": "The seventh part states the right of the accused to an impartial and public trial.<br> <h3>Landmark Case 7: People of the Philippines vs. Opida (G.R. No. L-46272 June 13, 1986)</h3> The conviction was reversed after the Supreme Court found that the trial judge was biased and pre-judged the accused because of his appearance and previous criminal record.",
+            "infographic": "../images/Right to an impartial and public trial.png"
+        },
+        {
+            "title": "Right to confrontation",
+            "text": "The eighth part refers to the right of the accused to meet the witnesses face-to-face so the counsel of the accused may ask questions from the witness of the complainant to check their credibility. Virtual hearings are not considered a violation of this right since the purpose of this right is still met. <br> <h3>Landmark Case 8: People of the Philippines vs. Ramos (G.R. No. L-59318 May 16, 1983)</h3> The complainant just submitted a sworn statement of his witness implicating the accused of drug pushing. The said witness was not presented in court so the defense counsel was not given the chance to ask questions to test the credibility of the witness and his testimony. The Court did not allow the sworn statement to be used as evidence against the accused as it would violate the right to confrontation.",
+            "infographic": "../images/Right to confrontation.png"
+        },
+        {
+            "title": "Right to compulsory process",
+            "text": "The ninth part of article XIV states the right of the accused to compulsory process, otherwise known as subpoena. A subpoena is a court order requiring a person to testify as witness for a party in a case or to bring documents/evidence needed to decide the case. This order is given out to speed up a trial by providing a judge with more information on a case. Failure to comply with a subpoena is punishable by imprisonment. <h3>Landmark Case 9: People of the Philippines vs. Bardaje (G.R. No. L-29271 August 29, 1980)</h3> A witness was subpoenaed upon the request of the accused. However, instead of taking further steps to compel the witness to appear, the judge waived the presentation of said witness because the latter did not want to attend the hearings. The Supreme Court considered this as violation of the right of the accused to compulsory process.",
+            "infographic": "../images/Right to compulsory process.png"
+        },
+        {
+            "title": "Trial in abstentia",
+            "text": "The tenth and final part states that a trial will proceed even if the accused is absent, and that this will not be considered a violation to any of the other rights of the accused. Such a trial is known as trial in absentia, and it requires the following to occur: <ol type='a'> <li>The accused has already been arraigned. As such, they went through the arraignment stage, meaning they were already informed of the charges against them and they pleaded “not guilty.”</li> <li>The accused has been duly notified of the trial, as a person cannot appear in court if they did not know there was a hearing in the first place.</li> <li>The failure to appear of the accused is not justified. The accused can be absent if, for example, they are sick.</li> </ol> <h3>Landmark Case 10: People of the Philippines vs. Salas (G.R. No. L-66469 July 29, 1986)</h3> The Supreme Court held that the purpose of this rule is to speed up the disposition of criminal cases, the trial of which could in the past be indefinitely deferred, and many times completely abandoned because the accused had escaped.",
+            "infographic": "../images/Trial in absentia.png"
         }
     ]
 }
