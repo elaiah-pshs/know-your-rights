@@ -1,0 +1,13 @@
+@use "vars";
+
+.sources {
+    border-radius: 3rem;
+    padding: 3rem 10rem;
+    margin-bottom: 3rem;
+    background-color: vars.$bg-tertiary;
+
+    .source {
+        padding-left: 4rem;
+        text-indent: -4rem;
+    }
+}

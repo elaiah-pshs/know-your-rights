@@ -5,13 +5,13 @@
 <nav>
     <ul class="navbar">        
         <li class="title item">
-            <a href="#top">                       
+            <a href="/">                       
                 Know Your Rights
             </a>
         </li>
         
         <li class="item">
-            <a href="#top">
+            <a href="/">
                 Home
             </a>
         </li>
@@ -29,7 +29,7 @@
         </li>
 
         <li class="item">
-            <a href="#top">
+            <a href="/sources">
                 Sources
             </a>
         </li>

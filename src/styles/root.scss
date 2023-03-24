@@ -47,7 +47,7 @@ a {
     transition: 500ms;
 }
 
-a:hover, main a:active {
+a:hover, a:active {
     color: vars.$bg-secondary;
     text-decoration: none;
 }
